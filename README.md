@@ -4,12 +4,12 @@ Criar, a partir do paradigma funcional de programação, funções
 capazes de separar e parametrizar itens de relatórios diários
 de casos de Covid - 19.
 
-### Execução 🔨⚙️
-```
-O software recebe por linha de comando o nome de um arquivo CSV, que deve estar junto à raiz do projeto, e imprime as seguintes informações:
-```
+# Execução 🔨⚙️
 
-### O que ele faz, por enquanto... 🦾
+O software recebe por linha de comando o nome de um arquivo CSV, que deve estar junto à raiz do projeto, e imprime as seguintes informações:
+
+
+# O que ele faz, por enquanto... 🦾
 
 1) Os três países com os maiores valores de "Confirmed". Os nomes devem estar em
 ordem alfabética.
@@ -23,6 +23,8 @@ cinco países com menores valres de "Confirmed".
 
 5) A soma de "Active" de todos os países em que "Confirmed" é maior ou igual a
 1.000.000.
+
+### O que inputar ?
 
 Exemplo de formatos válidos de arquivo são encontrados nesse repositório:
 
